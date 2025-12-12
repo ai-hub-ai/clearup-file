@@ -53,7 +53,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-repo/clearup-file.git
+   git clone https://github.com/ai-hub-ai/clearup-file.git
    cd clearup-file
    ```
 
